@@ -3,13 +3,16 @@
 
 """
 
-Enforce Linux Kernel optimzations for high performance servers in GSA DNS environment.
+Enforce Linux Kernel optimzations for high performance servers in enterprise environment.
 Usage: sudo python KernelOptimize.py
 
 """
 
 __author__= ' Donald R. Whitfield'
-__copyright__= '(c) General Services Administration (GSA)'
+__copyright__= 'S-Box Security, LLC'
+__email__ = 'donaldwhitfield@icloud.com'
+__status__ = 'Development'
+
 
 import os
 import subprocess
