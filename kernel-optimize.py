@@ -41,3 +41,6 @@ for param in kernel_params:
 with open ('/etc/sysctl.conf', 'w') as f:
     for os-param in kernel_params:
         print >>f, os-param
+
+
+
