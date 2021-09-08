@@ -8,10 +8,12 @@ Usage: sudo python KernelOptimize.py
 
 """
 
-__author__= ' Donald R. Whitfield'
-__copyright__= 'S-Box Security, LLC'
-__email__ = 'donaldwhitfield@icloud.com'
-__status__ = 'Development'
+__author__      =           'Donald Whitfield'
+__copyright__   =           '(c) 2021, S-Box Security'
+__version__     =           '1.0.0'
+__maintainer__  =           'Donald Whitfield'
+__email__       =           'donaldwhitfield@icloud.com'
+__status__      =           'Development'
 
 
 import os
